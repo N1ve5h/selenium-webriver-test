@@ -1,0 +1,19 @@
+{
+  "name": "selenium-webriver-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/chromedriver": "^81.0.1",
+    "@types/selenium-webdriver": "^4.1.13",
+    "chromedriver": "^111.0.0",
+    "dotenv": "^16.0.3",
+    "selenium-webdriver": "^4.8.1"
+  }
+}
